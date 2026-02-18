@@ -36,6 +36,6 @@ Formula:
 float fahrenheitToCelsius(float fahrenheit) {
     float celsius = (fahrenheit - 32) * 5 / 9;
     //return celsius;
-    return celcius;
+    return celsius;
 
 }
